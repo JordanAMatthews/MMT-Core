@@ -4,7 +4,7 @@
   "title": "MMT Mod - Core",
   "author": "MrGreen",
   "contact": "",
-  "description": "Note this is pre alpha, so things will change. Magic and Tech, Mixing somethink good",
+  "description": "Note this is pre alpha, so things will change. Magic and Tech, Mixing somethink good, tes Changes",
   "dependencies": ["base >= 0.14.0"],
   "factorio_version": "0.14"
 }
